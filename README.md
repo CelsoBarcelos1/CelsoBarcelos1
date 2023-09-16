@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <a href="www.linkedin.com/in/celso-barcelos-815214128" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
+
 ##
 :cactus: "I enjoy working and learning about problems related to the field of Robotics, more specifically with challenges involving cargo transportation performed by autonomous vehicles."
 
