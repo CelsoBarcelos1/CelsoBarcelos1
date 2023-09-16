@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 - Thank you by visit!
 Bye bye. 👋
 
-
+![snake gif](https://github.com/CelsoBarcelos1/CelsoBarcelos1/blob/output/github-contribution-grid-snake.svg)
